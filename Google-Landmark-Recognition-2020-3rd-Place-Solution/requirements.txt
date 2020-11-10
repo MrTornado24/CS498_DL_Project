@@ -1,0 +1,12 @@
+albumentations==0.4.6
+apex==0.9.9.dev0
+geffnet==0.9.8
+
+resnest==0.0.6b20201012
+# pip install git+https://github.com/ildoonet/pytorch-gradual-warmup-lr.git
+
+warmup_scheduler==0.3.2
+tqdm==4.31.1
+opencv_python==4.4.0.44
+numpy==1.18.5
+scikit_learn==0.23.2

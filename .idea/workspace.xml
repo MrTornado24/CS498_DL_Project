@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c05f5b0e-4e47-4b1a-b495-94982f23ad4b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="27196347-f869-49a6-a99d-5f67f0a21e74">
+    <option name="files">
+      <option value="Google-Landmark-Recognition-2020-3rd-Place-Solution/demo.ipynb" />
+    </option>
+  </component>
+  <component name="ProjectId" id="1jT8h8Ggr2e6JZfc4pVsP08djBQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Google-Landmark-Recognition-2020-3rd-Place-Solution/weights" />
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/bin" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c05f5b0e-4e47-4b1a-b495-94982f23ad4b" name="Default Changelist" comment="" />
+      <created>1603816840194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603816840194</updated>
+      <workItem from="1603816842249" duration="23569000" />
+      <workItem from="1604126427305" duration="6245000" />
+      <workItem from="1604580866697" duration="11387000" />
+      <workItem from="1604665927100" duration="52000" />
+      <workItem from="1604680047890" duration="60000" />
+      <workItem from="1604714850083" duration="14088000" />
+      <workItem from="1604853654282" duration="30300000" />
+      <workItem from="1604999408040" duration="2359000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1604971335595</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604971335595</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1604993298570</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604993298570</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init">
+      <created>1604997437099</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604997437099</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init">
+      <created>1604998774164</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604998774164</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init">
+      <created>1604999470932</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604999470932</updated>
+    </task>
+    <task id="LOCAL-00006" summary="init">
+      <created>1605000149083</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605000149083</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="65" key="#Deployment" timestamp="1604652287823">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="65" key="#Deployment/0.0.1280.800@0.0.1280.800" timestamp="1604652287823" />
+    <state x="55" y="0" key="CommitChangelistDialog2" timestamp="1605000148870">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="55" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1605000148870" />
+    <state x="128" y="69" key="DiffContextDialog" timestamp="1605000283454">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="128" y="69" key="DiffContextDialog/0.0.1280.800@0.0.1280.800" timestamp="1605000283454" />
+    <state x="560" y="282" key="Github.ShareDialog" timestamp="1604978709194">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="560" y="282" key="Github.ShareDialog/0.0.1280.800@0.0.1280.800" timestamp="1604978709194" />
+    <state x="403" y="112" key="Github.UntrackedFilesDialog" timestamp="1604978727639">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="403" y="112" key="Github.UntrackedFilesDialog/0.0.1280.800@0.0.1280.800" timestamp="1604978727639" />
+    <state x="141" y="23" key="SettingsEditor" timestamp="1604978545001">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="141" y="23" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1604978545001" />
+    <state x="111" y="143" key="Vcs.Push.Dialog.v2" timestamp="1605000321678">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="111" y="143" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1605000321678" />
+    <state x="425" y="283" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1604652259217">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="425" y="283" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1280.800@0.0.1280.800" timestamp="1604652259217" />
+    <state x="546" y="138" key="ftp.server.browser" timestamp="1604652242858">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="546" y="138" key="ftp.server.browser/0.0.1280.800@0.0.1280.800" timestamp="1604652242858" />
+  </component>
+</project>
